@@ -22,7 +22,7 @@ I'm a **game programmer specialised in UI**, now expanding into **web & front-en
 
 ## 🚀 Featured project — Futsal Stats
 
-A personal **PWA** to track the match stats of my 5-a-side football (futsal) team, **Robur**.
+A personal **PWA** to track the match stats of my 5-a-side football (futsal) team, **Robur Mergo**.
 
 - ⚛️ **React + TypeScript + Vite**, styled with **Tailwind CSS v4**
 - 💾 Offline-first with **Dexie.js (IndexedDB)** + installable **PWA** (`vite-plugin-pwa`)
