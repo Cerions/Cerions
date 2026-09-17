@@ -71,8 +71,15 @@ A personal **PWA** to track the match stats of my 5-a-side football (futsal) tea
 
 <div align="center">
 
-![Metrics](./github-metrics.svg)
-![Top Languages](./github-languages.svg)
+<!--
+  ⚠️ La public instance (github-readme-stats.vercel.app) è spesso rate-limited / down.
+  Dopo aver self-hostato su Vercel, sostituisci `github-readme-stats.vercel.app`
+  nei due URL qui sotto con la TUA istanza, es. github-readme-stats-luca.vercel.app
+-->
+
+![Cerions' GitHub stats](https://github-readme-stats.vercel.app/api?username=Cerions&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cerions&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400)
 
 </div>
 
